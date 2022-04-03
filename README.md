@@ -23,4 +23,7 @@ Before analyzing the dataset, I need to introduce you some features and the shor
 9. RELEASE YEAR - Release year of the show
 10. DURATION - Time duration of the show
 11. LISTED IN - Genre of the show
-![The percentage of content type](https://user-images.githubusercontent.com/57255039/161411279-1c19ec22-ed50-472c-aa91-df6c8e58464e.png)
+
+
+Here are some visualizations I did for the dataset. Feel free to comment my work for improvement.
+![The percentage of content type](https://user-images.githubusercontent.com/57255039/161411414-28f78549-0389-447b-99e8-04e3a94b8883.png)
