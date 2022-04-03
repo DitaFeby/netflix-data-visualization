@@ -27,3 +27,6 @@ Before analyzing the dataset, I need to introduce you some features and the shor
 
 Here are some visualizations I did for the dataset. Feel free to comment my work for improvement.
 ![The percentage of content type](https://user-images.githubusercontent.com/57255039/161411414-28f78549-0389-447b-99e8-04e3a94b8883.png)
+![Top 5 country with the highest number of movie](https://user-images.githubusercontent.com/57255039/161411427-f037f2cc-a2fd-4e51-b779-88b2a6f3b8a8.png)
+![Top 5 country with the highest number of tv show](https://user-images.githubusercontent.com/57255039/161411429-71cee04e-36d4-45c3-aea4-601c925741eb.png)
+![The number of content added between 2008 and 2020](https://user-images.githubusercontent.com/57255039/161411435-d899ceb9-2870-4965-8ecf-fa6800526ceb.png)
